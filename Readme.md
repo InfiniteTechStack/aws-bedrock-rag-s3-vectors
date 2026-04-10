@@ -47,7 +47,7 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) workflow using 
 
 - Select the LLM > apply
 
-- create knowledge base.
+- Create knowledge base.
 
 ## Test the knowledge base
 
