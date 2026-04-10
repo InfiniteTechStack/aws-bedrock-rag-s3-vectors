@@ -22,20 +22,27 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) workflow using 
 ## Amazon Bedrock Knowledge Base is created with a vector store
 
 - Bedrock > build > knowledge bases > create > knowledge base with vector store.
+  
 ![img](.images/image-2026-04-10-12-22-33.png)
 
 - A data source is configured to read from S3.
+  
 ![img](.images/image-2026-04-10-12-12-48.png)
 
 - An embedding model is selected to convert content into vector representations.
+  
 ![img](.images/image-2026-04-10-11-27-26.png)
 
+- Select the Vector
+  
 ![img](.images/image-2026-04-10-11-28-29.png)
 
-- The knowledge base is synced to index the data.
+- Sync the knowledge base to index the data.
+  
 ![img](.images/image-2026-04-10-11-38-20.png)
 
 - A foundation model is used to answer questions based on retrieved context.
+  
 ![img](.images/image-2026-04-10-11-39-00.png)
 
 - Select the LLM > apply
@@ -44,6 +51,4 @@ This project demonstrates a Retrieval-Augmented Generation (RAG) workflow using 
 
 ## Test the knowledge base
 
-![](.images/image-2026-04-10-11-47-10.png)
-
-## Reference: https://www.youtube.com/watch?v=7Z-AqVfe2V4
+![img](.images/image-2026-04-10-11-47-10.png)
